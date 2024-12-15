@@ -1,0 +1,13 @@
+{
+    "matches": [
+      {
+        "match_id": "teamA_vs_teamB_2024_12_14",
+        "odds": {
+          "sportsbook1": {"teamA": 1.95, "teamB": 1.95},
+          "sportsbook2": {"teamA": 2.00, "teamB": 1.90},
+          "sportsbook3": {"teamA": 1.90, "teamB": 2.05}
+        }
+      }
+    ]
+  }
+  
